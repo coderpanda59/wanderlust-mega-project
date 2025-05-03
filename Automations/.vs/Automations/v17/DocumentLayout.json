@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pmasu\\OneDrive\\Desktop\\mega-project\\Wanderlust-Mega-Project\\Automations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pmasu\\OneDrive\\Desktop\\mega-project\\Wanderlust-Mega-Project\\Automations\\updatefrontendnew.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:updatefrontendnew.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pmasu\\OneDrive\\Desktop\\mega-project\\Wanderlust-Mega-Project\\Automations\\updatebackendnew.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:updatebackendnew.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "updatefrontendnew.sh",
+              "DocumentMoniker": "C:\\Users\\pmasu\\OneDrive\\Desktop\\mega-project\\Wanderlust-Mega-Project\\Automations\\updatefrontendnew.sh",
+              "RelativeDocumentMoniker": "updatefrontendnew.sh",
+              "ToolTip": "C:\\Users\\pmasu\\OneDrive\\Desktop\\mega-project\\Wanderlust-Mega-Project\\Automations\\updatefrontendnew.sh",
+              "RelativeToolTip": "updatefrontendnew.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-05-03T11:11:52.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "updatebackendnew.sh",
+              "DocumentMoniker": "C:\\Users\\pmasu\\OneDrive\\Desktop\\mega-project\\Wanderlust-Mega-Project\\Automations\\updatebackendnew.sh",
+              "RelativeDocumentMoniker": "updatebackendnew.sh",
+              "ToolTip": "C:\\Users\\pmasu\\OneDrive\\Desktop\\mega-project\\Wanderlust-Mega-Project\\Automations\\updatebackendnew.sh",
+              "RelativeToolTip": "updatebackendnew.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-05-03T11:09:06.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
